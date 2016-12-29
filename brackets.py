@@ -1,3 +1,3 @@
 # check that all brackets are closed
-print ('test')
+print ('test2')
 input()
