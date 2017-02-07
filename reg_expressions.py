@@ -55,7 +55,7 @@ import sys
 # print "Counted", len(data), "lines."
 
 # for line in sys.stdin:
-#     print line
+#     print line!
 import re
 
 x = '([0-9]|[1-9][0-9]|1[0-9]{2}|2(5[0-5]|[0-4]\d))'
